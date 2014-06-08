@@ -1,0 +1,1 @@
+var a="this is a test script";!function(o){console.log(o),console.log("this is another string"),console.log("this is another string");for(var s=0;10>=s;s++)console.log("Iteration "+s+":"+(s+1));console.log("some test")}("hello");
